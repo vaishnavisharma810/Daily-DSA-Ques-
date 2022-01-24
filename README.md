@@ -11,4 +11,9 @@
 
 18th January 2022 : Rank of  String in Lexicographic Order
 
-20th Januaary 2022 : Sheet 19 Strings
+19th January 2022 : Linear Search, Binary Search, Ternary Search
+
+20th Januaary 2022 : Sheet 19 Strings (Easy and Complex)
+
+21st January 2022 : Greedy Algorithm (Easy and Medium)
+
